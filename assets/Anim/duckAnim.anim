@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "duckAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 5,
+  "speed": 5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "02550e5d-a5c5-4cd6-9e55-01b0ccf8edd8"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "519d77bc-3fec-4d3e-9186-48ddf8fa21ad"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "64712459-a061-4466-91cb-ac1640eaede0"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "6e182b89-bb2f-4ebd-a20a-25262900a009"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "ba07130f-7743-4b44-8b86-f59089e8d9d8"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "024e2e39-7808-4326-9d3f-bb732163e50c"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "2279fc9d-fecb-4b84-9ebf-6489ee5ce413"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "d3d5d28f-c151-441d-99b8-75a4a52d579a"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "68fa005b-20ba-4954-bf33-97aeb6f095d4"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "2ef73c67-9ce3-4c02-8134-cd7da7bca5ca"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

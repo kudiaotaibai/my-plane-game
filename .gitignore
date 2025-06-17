@@ -1,0 +1,7 @@
+# Cocos Creator
+build/
+temp/
+local/
+library/
+*.fire.meta
+*.anim.meta

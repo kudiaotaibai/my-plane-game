@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flyAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.2,
+  "sample": 5,
+  "speed": 10,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ff660143-efd1-44d2-a0a3-b6c1384e46dd"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "1f714592-d04f-43b0-98aa-5f2281a758bc"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "03cb1595-103a-4cc5-bed1-8013e4e2da8d"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "f660a449-b48b-43c3-88d3-97a8cb2558e0"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "b92e40c0-e9f2-40f8-b801-95e5a71061e0"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "25fa0848-15f7-417a-8a5d-3cb205669e09"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "0284a2b3-8f11-48ff-84dd-b7696cc5760b"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "838c30ad-be57-4763-bfb0-c0a313ea29c0"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "b490cbe1-f025-4b9b-8125-9d52a66be18e"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "0ec6e8c0-8eb8-4fe9-a938-b91c68ba74a2"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "ff660143-efd1-44d2-a0a3-b6c1384e46dd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

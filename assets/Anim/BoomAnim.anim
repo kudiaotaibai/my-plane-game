@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BoomAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4758b442-7efa-4f79-b5e2-383c81bb3e6c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "f77b2080-5187-4963-aeb5-56571e4e70e1"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "8caf3ba7-c3ba-4d5b-81bf-6a21d41b95cf"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "d94403ef-5b0a-4b90-a2fb-14d9d270e3dc"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "41c9ef8d-afcf-490b-8779-92673e549b88"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "onBoomEnd",
+      "params": []
+    }
+  ]
+}

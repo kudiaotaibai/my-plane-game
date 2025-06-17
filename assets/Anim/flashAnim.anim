@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flashAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.15,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d913a825-62f9-4f4f-8e64-e214b176e2e5"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "a2cc2dba-44cd-4743-850f-dc4e8095cc8a"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "64845e76-2187-476d-a95e-02216d62a4a8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.1,
+      "func": "onFlashEnd",
+      "params": []
+    }
+  ]
+}
